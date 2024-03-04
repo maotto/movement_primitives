@@ -135,12 +135,12 @@ start positions.
 
 ### Cartesian DMPs
 
-<img src="https://raw.githubusercontent.com/dfki-ric/movement_primitives/main/doc/source/_static/cart_dmp_ur5.png" width="100%" />
+<img src="https://raw.githubusercontent.com/maotto/movement_primitives/main/doc/source/_static/pytransform3d-ur5mia-meshed.gif" height="300px" />
 
 A trajectory is created manually, imitated with a Cartesian DMP, converted
 to a joint trajectory by inverse kinematics, and executed with a UR5.
 
-[Script](https://github.com/dfki-ric/movement_primitives/blob/main/examples/vis_cartesian_dmp.py)
+[Script](https://github.com/maotto/movement_primitives/blob/main/examples/vis_cartesian_dmp_mia.py)
 
 ### Contextual ProMPs
 
